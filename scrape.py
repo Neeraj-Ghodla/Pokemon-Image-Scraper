@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 from multiprocessing import Process
-import numpy as np
 import requests
 import pickle
 
