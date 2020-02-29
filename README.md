@@ -1,7 +1,7 @@
 # Pokemon-Image-Scraper
 Scrape Pokemon Images from Bulbapedia
 
-# Download images from the pre-scraped url
+# Download images from the pre-scraped urls
 Run the download.py file to download images from the pre-scrapped urls
 
 # Download images by scraping new urls
